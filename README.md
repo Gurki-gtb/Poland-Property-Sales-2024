@@ -8,14 +8,16 @@ This project features two interactive real estate dashboards that provide an ove
 
 ### Page 1 - Filters + Pivot Tables + Scatter Plots 📊📈
 
-![Dashboard Page 1](dashboard-page1.png)
+![Dashboard Page 1](<img width="902" alt="dashboard-page1" src="https://github.com/user-attachments/assets/e7ff1956-17e7-4c3f-abda-d0897d56c597" />
+)
 
 
 ---
 
 ### Page 2 - Filters + Tables + Geo Map (with bubble visualization) 🗺️
 
-![Dashboard Page 2](dashboard-page2.png)
+![Dashboard Page 2](<img width="902" alt="dashboard-page2" src="https://github.com/user-attachments/assets/cca16e14-69d8-45e9-86fa-52bb88acc804" />
+)
 
 
 ## Features:
